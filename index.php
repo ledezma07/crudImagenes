@@ -17,6 +17,7 @@
 		<div class="row">
 		<form action="frm_reg_persona.php">
 			<input type="submit" value ="REGISTRAR" class="btn btn-danger">
+			<input type="submit" value ="GUARDAR" class="btn btn-dark">
 		</form>	
 		BOTON REGISTRAR</div>
 		<div class="row">
