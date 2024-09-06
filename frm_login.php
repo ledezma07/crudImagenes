@@ -9,7 +9,7 @@
 	<div class="col-6">
 		<h3>Formulario de Autentificacion</h3>
 		<hr>
-		<form action="#" method="POST" enctype="multipart/form-data">
+		<form action="reg_login.php" method="POST" enctype="multipart/form-data">
 			<div class="mb-3">
 			<label class="form-label" for="txt_ci">USUARIO:</label>
 			<input class="form-control" type="text" name="txt_ci" id= "txt_ci">
