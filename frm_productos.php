@@ -7,7 +7,7 @@
 <div class="row">
 	<div class="col-3"></div>
 	<div class="col-6">
-		<h3>Formulario de Autentificacion</h3>
+		<h3>PRODUCTOS</h3>
 		<hr>
 		<form action="reg_login.php" method="POST" enctype="multipart/form-data">
 			<div class="mb-3">

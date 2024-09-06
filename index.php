@@ -22,6 +22,13 @@
 		<form action="frm_login.php">
 			<input type="submit" value ="GUARDAR" class="btn btn-dark">
 		</form>	
+
+		<form action="frm_productos.php">
+			<input type="submit" value ="PRODUCTOS" class="btn btn-dark">
+		</form>	
+
+
+
 		BOTON REGISTRAR</div>
 		<div class="row">
 		<table class="table">	
